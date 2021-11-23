@@ -1,6 +1,6 @@
 import openai
 import psycopg2
-openai.api_key = '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'
+openai.api_key = #SECRET KEY
 from termcolor import colored
 
 # Train the data:
