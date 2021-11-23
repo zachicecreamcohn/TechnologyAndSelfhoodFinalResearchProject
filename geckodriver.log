@@ -625,24 +625,30 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 1637626448260	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 console.log: WebExtensions: reset-default-search: starting.
 console.log: WebExtensions: reset-default-search: No addons in our list are installed.
-\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\zwc12\\AppData\\Local\\Temp\\rust_mozprofilebqJUAM"
-1637626697512	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\zwc12\\AppData\\Local\\Temp\\rust_mozprofilebqJUAM\\search.json.mozlz4", (void 0)))
+1637641930298	Marionette	INFO	Stopped listening on port 22187
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+ile?" (new NotFoundError("Could not open the file at C:\\Users\\zwc12\\AppData\\Local\\Temp\\rust_mozprofilebqJUAM\\search.json.mozlz4", (void 0)))
 1637626700102	Marionette	INFO	Listening on port 60522
 1637626700569	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
 console.log: WebExtensions: reset-default-search: starting.
 console.log: WebExtensions: reset-default-search: No addons in our list are installed.
-\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\zwc12\\AppData\\Local\\Temp\\rust_mozprofileJmRYKG"
-1637626785260	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\zwc12\\AppData\\Local\\Temp\\rust_mozprofileJmRYKG\\search.json.mozlz4", (void 0)))
+1637641931446	Marionette	INFO	Stopped listening on port 60522
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+rofileJmRYKG\\search.json.mozlz4", (void 0)))
 1637626787924	Marionette	INFO	Listening on port 40398
 1637626788359	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 console.log: WebExtensions: reset-default-search: starting.
 console.log: WebExtensions: reset-default-search: No addons in our list are installed.
-\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\zwc12\\AppData\\Local\\Temp\\rust_mozprofilehVsltJ"
-1637626970663	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\zwc12\\AppData\\Local\\Temp\\rust_mozprofilehVsltJ\\search.json.mozlz4", (void 0)))
+1637641932168	Marionette	INFO	Stopped listening on port 40398
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+rofilehVsltJ\\search.json.mozlz4", (void 0)))
 1637626973264	Marionette	INFO	Listening on port 27625
 1637626973327	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 1637627091867	Marionette	INFO	Stopped listening on port 27625
